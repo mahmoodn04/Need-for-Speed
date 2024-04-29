@@ -1,0 +1,36 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3d1d515b_002D6cb3_002D4bd1_002D9c28_002D58eb06f85315/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NeedForSpeedTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net8.0::NeedForSpeedTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6d4dea4f_002Df638_002D45cb_002Dbf15_002D5388a4f93add/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Car_can_finish_with_car_that_can_just_finish #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net8.0::NeedForSpeedTests.Car_can_finish_with_car_that_can_just_finish&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=90ccee20_002Dbb5d_002D402a_002Da65d_002D94759117dd71/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="NeedForSpeedTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net8.0::NeedForSpeedTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9aa2eb28_002D02e4_002D4235_002D84b6_002De75b8e3abc4f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NeedForSpeedTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net8.0::NeedForSpeedTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c25b3ff4_002D49cf_002D4768_002Dafe0_002Dcf55e985197e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NeedForSpeedTests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net8.0::NeedForSpeedTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c2dbd044_002D55dd_002D490b_002D8df9_002Df79345867ed3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Car_can_finish_with_car_that_can_just_finish" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net8.0::NeedForSpeedTests.Car_can_finish_with_car_that_can_just_finish&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d3a8bcf5_002D3444_002D4b8d_002D9b4e_002D148586ca006a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Car_can_finish_with_car_that_can_just_finish #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9C5E317A-1EE9-03BE-B7C0-FC6336C2DC07::net8.0::NeedForSpeedTests.Car_can_finish_with_car_that_can_just_finish&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
